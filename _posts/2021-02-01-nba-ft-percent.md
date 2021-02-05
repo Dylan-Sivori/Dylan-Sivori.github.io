@@ -1,15 +1,12 @@
 ---
 layout: post
-title: NBA FT Percent
-subtitle: This is subtitle
+title: NBA Player Height VS. Free Throw Percentage
+subtitle: In this article, we take a look at the relationship between an NBA player's height and his free throw percentage.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [python, other]
 ---
-
-#NBA Player Height VS. Free Throw Percentage
-##In this article, we take a look at the relationship between an NBA player's height and his free throw percentage.
 
 Have you ever watched a basketball game and found yourself confused and frustrated as a player steps up to the free thrown line and misses the shot? Or asked yourself, "How do some professional basketball players miss free throws so much?" I get it once in a while but to have a free throw percentage below 70% for a professional player just doesn't make sense to a lot of people. Just practice the free throws, right? It can't be that hard to improve your percentage, right? 
 
