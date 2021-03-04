@@ -8,8 +8,7 @@ share-img: /assets/img/FilmWheels.jpg
 tags: [python, data science, machine learning, other]
 ---
 
-# **Intro**
-## Building a Predictive Model, Real World Data is Messy
+# Building a Predictive Model, Real World Data is Messy
 
 Movies, Film, Cinema, whatever you want to call it is one of my favorite things to watch. There is just something special about how you feel after watching a great movie and that need you feel to share that experience with other people. When I was tasked with building a predictive model, I knew I wanted to deal with a dataset regarding this love of film and media.
 
