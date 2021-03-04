@@ -30,7 +30,7 @@ The mean of my target variable, weighted average rating, was 5.92 on a scale fro
 # **Building Models**
 So now that I had my baseline, I could start building my models. In the interest of being thorough I decided to build two models, a Ridge model and an XGBRegressor model so that I could tune the alpha hyperparameter, as well as other hyperparameters to help make my model generalize to data it hasn't seen as well as possible. I built both models using a pipeline including an OrdinalEncoder for the categorical variables, a SimpleImputer to fill in the null values with the mean of the column, and the model that we were training. 
 
-Before going any further I like to check the metrics for how the models perform without any hyperparameter tuning. My Ridge model had a validation MAE of 0.119 and my XGBRegresso model had a validation MAE of 0.111. Since the XGBRegressor model was performing better on the validation data without any adjustment, that is the model I used to tune the hyperparameters.
+Before going any further I like to check the metrics for how the models perform without any hyperparameter tuning. My Ridge model had a validation MAE of 0.119 and my XGBRegressor model had a validation MAE of 0.111. Since the XGBRegressor model was performing better on the validation data without any adjustment, that is the model I used to tune the hyperparameters.
 
 # **Hyperparameter Tuning**
 In an effort to get my MAE metric as low as possible, I turned to the GridSearchCV to tune my hyperparameters so I could be sure that I was as thorough as possible. The hyperparameters that I wanted to tune were the SimpleImputer strategy and the XGBRegressors's max depth, alpha, and n_estimators with 10 folds.
