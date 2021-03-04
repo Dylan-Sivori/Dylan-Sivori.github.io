@@ -2,9 +2,9 @@
 layout: post
 title: Predicting IMDb Ratings
 subtitle: In this article, I build a model that can predict the weighted average rating of a movie on IMDb.
-cover-img: /assets/img/FreeThrowImage.jpg
-thumbnail-img: /assets/img/Baskball.jpg
-share-img: /assets/img/FreeThrowImage.jpg
+cover-img: /assets/img/HollywoodSign.jpg
+thumbnail-img: /assets/img/Popcorn.jpg
+share-img: /assets/img/FilmWheels.jpg
 tags: [python, data science, machine learning, other]
 ---
 
