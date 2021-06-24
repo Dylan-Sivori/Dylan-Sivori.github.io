@@ -2,9 +2,9 @@
 layout: post
 title: Creating Dynamic Visualizations for Busy Users
 subtitle: In this article, I discuss my contributions to an ongoing project for the Human Rights First organization.
-cover-img: /assets/img/HollywoodSign.jpg
-thumbnail-img: /assets/img/Popcorn.jpg
-share-img: /assets/img/FilmWheels.jpg
+cover-img: /assets/img/pillars.jpg
+thumbnail-img: /assets/img/gavel.jpg
+share-img: /assets/img/gavel.jpg
 tags: [python, data science, plotly, other]
 ---
 
